@@ -342,24 +342,18 @@ h1 {
   }
 .about-other {
   margin-top: -50px;
-  padding: 0% 20%;
+  padding: 0% 15%;
 }
   .about-other p {
     font-size: 20px;
     line-height: 30px;
   }
   .about-avatar img {
-    padding: 7px 10px 10px 0;
-    width: 250px;
+    padding: 7px 20px 10px 0;
+    width: 220px;
   }
 .about-other .back-to-blog {
   margin-top: 50px;
   font-size: 14px;
   text-align: center;
-}
-
-.clip-circle {
-  clip-path: circle(60px at center);
-  /* OLD VALUE example: circle(245px, 140px, 50px); */
-  /* Yep, even the new clip-path has deprecated stuff. */
 }
