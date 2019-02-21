@@ -1,0 +1,31 @@
+* { box-sizing: border-box; }
+html { background-color: #fff; margin: 0; padding: 0; font-size: 1.5em; }
+body { margin: 0 auto; padding: 4em 2em; width: 100%; max-width: 1000px; font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;; font-size: 1em; }
+a { color: blue; text-decoration: underline; }
+section { margin: 4em 0; }
+footer { font-size: .8em; margin: 4em 0 0; text-align: right; }
+p { line-height: 1.5em; }
+
+.float-left { float: left; margin: auto 1em 1em auto; }
+.full-width { width: 100%; }
+
+h1 em { color: magenta; }
+#links ul { padding: 0; }
+#links li { margin: 1em 0; }
+#links a { padding: .3em .5em; display: inline-block; }
+#links h3 { text-align: center; }
+
+#links section { margin: 4em 0; }
+#links .webring li { display: inline-block; margin: .4em 0; }
+
+#breadcrumbs {
+  margin: 0;
+}
+
+#vitae ul li {
+  margin: 1em 0;
+}
+
+#vitae em {
+  display: block;
+}
