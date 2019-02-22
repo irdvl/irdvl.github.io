@@ -9,7 +9,7 @@ p { line-height: 1.5em; }
 .float-left { float: left; margin: auto 1em 1em auto; }
 .full-width { width: 100%; }
 
-h1 em { color: magenta; }
+h1 em { color: #339fff; }
 #links ul { padding: 0; }
 #links li { margin: 1em 0; }
 #links a { padding: .3em .5em; display: inline-block; }
